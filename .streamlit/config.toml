@@ -1,0 +1,14 @@
+[theme]
+base="light"
+primaryColor="#1363DF"                  # Azul principal (Botões e elementos interativos)
+backgroundColor="#F7F9FB"               # Fundo principal da interface
+secondaryBackgroundColor="#E3EAF2"      # Fundo de cards, caixas e barras laterais
+textColor="#000000"                     # Texto em preto para legibilidade
+font="sans serif"
+
+[server]
+headless = true
+runOnSave = true
+
+[client]
+showSidebarNavigation = true
